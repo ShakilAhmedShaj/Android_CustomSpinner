@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Android_CustomSpinner</string>
+
+    <string-array name="planet_names">
+
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+
+    </string-array>
+
+    <string-array name="diameter">
+
+        <item>Diameter: 1.3 Million km</item>
+        <item>Diameter: 4,878 km</item>
+        <item>Diameter: 12,104 km</item>
+        <item>Diameter: 12,760 km</item>
+        <item>Diameter: 6,787 km</item>
+        <item>Diameter: 139,822 km</item>
+        <item>Diameter: 120,500 km</item>
+        <item>Diameter: 51,120 km</item>
+        <item>Diameter: 49,530 km</item>
+
+    </string-array>
+
+</resources>
